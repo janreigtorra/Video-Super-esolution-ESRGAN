@@ -1,2 +1,3 @@
-# VideoSuperesolution_ESRGAN-
+# VideoSuperesolution_ESRGAN
+
 Perform Video Super-Resolution Using Modified ESRGAN
